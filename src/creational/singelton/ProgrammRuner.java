@@ -1,4 +1,4 @@
-package creational.abstract_factory.singelton;
+package creational.singelton;
 
 public class ProgrammRuner {
     public static void main(String[] args) {

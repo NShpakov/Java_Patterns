@@ -1,4 +1,4 @@
-package creational.abstract_factory.singelton;
+package creational.singelton;
 
 public class ProgramLogger {
     private static ProgramLogger programLogger;
